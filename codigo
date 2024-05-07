@@ -1,4 +1,4 @@
-#include <Arduino.h>
+#include <Arduino.h> //Usa comandos de arduino
 #ifndef COMMUNICATIONS_H
 #define COMMUNICATIONS_H
 
