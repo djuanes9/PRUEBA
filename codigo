@@ -1,7 +1,6 @@
 #include <Arduino.h> //Usa comandos de arduino
-#ifndef COMMUNICATIONS_H
+#ifndef COMMUNICATIONS_H // Leido el comando de comunicacion 
 #define COMMUNICATIONS_H
-
 #include <Regexp.h> // docs at:
 // http://www.gammon.com.au/scripts/doc.php?lua=string.find
 
